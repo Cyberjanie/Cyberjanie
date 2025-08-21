@@ -7,12 +7,12 @@
 
 ---
 
-## 🇫🇷 À propos de moi
+## FR À propos de moi
 - Construire un portfolio clair et structuré  
 - Pratiquer la programmation en C (CS50) et Python  
 - Débuter un projet perso en cybersécurité pour mon entreprise  
 
-## 🇫🇷 Compétences en apprentissage
+## FR Compétences en apprentissage
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure)
@@ -20,12 +20,12 @@
 
 ---
 
-## 🇬🇧 About Me
+## EN About Me
 - Building a structured and clear portfolio  
 - Practicing C programming (CS50) and Python  
 - Starting a cybersecurity side-project applied to my company  
 
-## 🇬🇧 Skills in Progress
+## EN Skills in Progress
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure)
