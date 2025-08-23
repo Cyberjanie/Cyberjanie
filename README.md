@@ -30,7 +30,7 @@ C - PYTHON - AZURE - CYBERSECUTIRÉ
 ## 📌 Projects | Projets
 - **[Portfolio-Programmation-C](https://github.com/Cyberjanie/Programmation-c)** → exercices & projets en C / C language projects
 - **[Portfolio-Programmation-python](https://github.com/Cyberjanie/Programmation-python)** → exercices & projets en Python / Python language projects
-- **[Portfolio-Cybersecurite](https://github.com/Cyberjanie/Cybersecurite)** → mini-projets & labs sécurité / security mini-projects  
+- **[Portfolio-Cybersecurite](https://github.com/Cyberjanie/Cybersecurity)** → mini-projets & labs sécurité / security mini-projects  
 - **Credit Info Mirabel (perso)** → cybersécurité appliquée à mon entreprise / applied cybersecurity for my company  
 
 ---
