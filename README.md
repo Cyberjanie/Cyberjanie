@@ -23,7 +23,7 @@ C - PYTHON - AZURE - CYBERSECUTIRÉ - CRYPTOGRAPHIE - GESTION DU RISQUE - LINUX 
 - Starting a cybersecurity side-project applied to my company  
 
 ## EN Skills in Progress
-C - PYTHON - AZURE - CYBERSECUTIRÉ
+C - PYTHON - AZURE - CYBERSECURITY - ENCRYPTION - RISK MANAGEMENT - LINUX - WINDOWS
 
 ---
 
