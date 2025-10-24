@@ -13,7 +13,7 @@
 - Débuter un projet perso en cybersécurité pour mon entreprise  
 
 ## FR Compétences en apprentissage
-C - PYTHON - AZURE - CYBERSECUTIRÉ
+C - PYTHON - AZURE - CYBERSECUTIRÉ - CRYPTOGRAPHIE - GESTION DU RISQUE - LINUX - WINDOWS
 
 ---
 
